@@ -19,5 +19,12 @@
 <h3>2.櫃買中心-股票清單</h3>
 </div>
 
-目前初版使用畫面如下：
+<div>
 
+<h1>目前初版使用畫面如下：</h1>
+<h4>使用股票代碼查詢</h4>
+<img src="https://github.com/GaryTseng/StockLineBot/blob/master/1579191693030_0.jpg">
+<h3>使用股票名稱查詢</h3>
+<img src="https://github.com/GaryTseng/StockLineBot/blob/master/1579191704412_0.jpg">
+
+</div>
